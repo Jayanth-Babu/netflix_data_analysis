@@ -1,1 +1,3 @@
-# netflix_data_analysis
+# Netflix Data Analysis Using SQL
+
+![Netflix Logo]()
